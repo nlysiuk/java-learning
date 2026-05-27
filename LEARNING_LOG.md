@@ -55,7 +55,7 @@
 
 ### 2026-05-27 — Day 2 — Basic Syntax: `;` vs `{}` (statement vs block)
 
-**Pomodoros:** ?/3 — заполни сам
+**Pomodoros:** 2/3 — заполни сам
 **Roadmap progress:** Phase 1 — Basic Syntax — точки с запятой, фигурные скобки, комментарии. Структурная часть Basic Syntax закрыта.
 
 **Что освоил сегодня:**
