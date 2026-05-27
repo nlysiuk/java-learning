@@ -1,4 +1,4 @@
-### YYYY-MM-DD — Day 1 — Basic Syntax: класс-обёртка + имя файла = имя класса
+### 2026-05-27 — Day 1 — Basic Syntax: класс-обёртка + имя файла = имя класса
 
 **Pomodoros:** 1/3 (50/10) — заполни сам
 **Roadmap progress:** Phase 1 — Basic Syntax — структура файла, класс, точка входа `main`
