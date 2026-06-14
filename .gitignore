@@ -1,3 +1,4 @@
-.vscode/*.class
-*.class
+.vscode/
+
+# Скомпилированный байткод Java — результат javac, в репозиторий не нужен
 *.class
