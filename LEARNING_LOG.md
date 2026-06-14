@@ -108,7 +108,7 @@
 
 ### 2026-05-27 — Day 3 — Data Types: int, double, String + lossy conversion
 
-**Pomodoros:** ?/3 — заполни сам
+**Pomodoros:** 3/3 — заполни сам
 **Roadmap progress:** Phase 1 — Data Types — введение, первые три типа (`int`, `double`, `String`), концепт type-strictness через настоящую ошибку компилятора.
 
 **Что освоил сегодня:**
